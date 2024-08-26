@@ -1,0 +1,542 @@
+[
+    {
+        "mutation_func": "mutate",
+        "crossover_func": "crossover",
+        "population_size": 50,
+        "num_generations": 100,
+        "tournament_size": 3,
+        "elitism_size": 5,
+        "mutation_prob": 0.1,
+        "solution": [
+            "B",
+            "A",
+            "C",
+            "E",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 0.22736263275146484
+    },
+    {
+        "mutation_func": "mutate",
+        "crossover_func": "crossover",
+        "population_size": 100,
+        "num_generations": 200,
+        "tournament_size": 5,
+        "elitism_size": 10,
+        "mutation_prob": 0.2,
+        "solution": [
+            "B",
+            "A",
+            "C",
+            "E",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 1.5226144790649414
+    },
+    {
+        "mutation_func": "mutate",
+        "crossover_func": "partially_mapped_crossover",
+        "population_size": 50,
+        "num_generations": 100,
+        "tournament_size": 3,
+        "elitism_size": 5,
+        "mutation_prob": 0.1,
+        "solution": [
+            "B",
+            "A",
+            "C",
+            "E",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 0.3193542957305908
+    },
+    {
+        "mutation_func": "mutate",
+        "crossover_func": "partially_mapped_crossover",
+        "population_size": 100,
+        "num_generations": 200,
+        "tournament_size": 5,
+        "elitism_size": 10,
+        "mutation_prob": 0.2,
+        "solution": [
+            "B",
+            "A",
+            "C",
+            "E",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 1.8484790325164795
+    },
+    {
+        "mutation_func": "mutate",
+        "crossover_func": "cycle_crossover",
+        "population_size": 50,
+        "num_generations": 100,
+        "tournament_size": 3,
+        "elitism_size": 5,
+        "mutation_prob": 0.1,
+        "solution": [
+            "B",
+            "A",
+            "C",
+            "E",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 0.17844343185424805
+    },
+    {
+        "mutation_func": "mutate",
+        "crossover_func": "cycle_crossover",
+        "population_size": 100,
+        "num_generations": 200,
+        "tournament_size": 5,
+        "elitism_size": 10,
+        "mutation_prob": 0.2,
+        "solution": [
+            "B",
+            "A",
+            "E",
+            "C",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 1.2893402576446533
+    },
+    {
+        "mutation_func": "inversion_mutation",
+        "crossover_func": "crossover",
+        "population_size": 50,
+        "num_generations": 100,
+        "tournament_size": 3,
+        "elitism_size": 5,
+        "mutation_prob": 0.1,
+        "solution": [
+            "B",
+            "A",
+            "C",
+            "E",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 0.22966289520263672
+    },
+    {
+        "mutation_func": "inversion_mutation",
+        "crossover_func": "crossover",
+        "population_size": 100,
+        "num_generations": 200,
+        "tournament_size": 5,
+        "elitism_size": 10,
+        "mutation_prob": 0.2,
+        "solution": [
+            "B",
+            "A",
+            "C",
+            "E",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 1.557753562927246
+    },
+    {
+        "mutation_func": "inversion_mutation",
+        "crossover_func": "partially_mapped_crossover",
+        "population_size": 50,
+        "num_generations": 100,
+        "tournament_size": 3,
+        "elitism_size": 5,
+        "mutation_prob": 0.1,
+        "solution": [
+            "B",
+            "A",
+            "C",
+            "E",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 0.3072810173034668
+    },
+    {
+        "mutation_func": "inversion_mutation",
+        "crossover_func": "partially_mapped_crossover",
+        "population_size": 100,
+        "num_generations": 200,
+        "tournament_size": 5,
+        "elitism_size": 10,
+        "mutation_prob": 0.2,
+        "solution": [
+            "B",
+            "A",
+            "C",
+            "E",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 1.8611154556274414
+    },
+    {
+        "mutation_func": "inversion_mutation",
+        "crossover_func": "cycle_crossover",
+        "population_size": 50,
+        "num_generations": 100,
+        "tournament_size": 3,
+        "elitism_size": 5,
+        "mutation_prob": 0.1,
+        "solution": [
+            "B",
+            "A",
+            "C",
+            "E",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 0.2212963104248047
+    },
+    {
+        "mutation_func": "inversion_mutation",
+        "crossover_func": "cycle_crossover",
+        "population_size": 100,
+        "num_generations": 200,
+        "tournament_size": 5,
+        "elitism_size": 10,
+        "mutation_prob": 0.2,
+        "solution": [
+            "B",
+            "A",
+            "E",
+            "C",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 1.5962274074554443
+    },
+    {
+        "mutation_func": "scramble_mutation",
+        "crossover_func": "crossover",
+        "population_size": 50,
+        "num_generations": 100,
+        "tournament_size": 3,
+        "elitism_size": 5,
+        "mutation_prob": 0.1,
+        "solution": [
+            "B",
+            "A",
+            "E",
+            "C",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 0.2424941062927246
+    },
+    {
+        "mutation_func": "scramble_mutation",
+        "crossover_func": "crossover",
+        "population_size": 100,
+        "num_generations": 200,
+        "tournament_size": 5,
+        "elitism_size": 10,
+        "mutation_prob": 0.2,
+        "solution": [
+            "B",
+            "A",
+            "E",
+            "C",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 1.5552568435668945
+    },
+    {
+        "mutation_func": "scramble_mutation",
+        "crossover_func": "partially_mapped_crossover",
+        "population_size": 50,
+        "num_generations": 100,
+        "tournament_size": 3,
+        "elitism_size": 5,
+        "mutation_prob": 0.1,
+        "solution": [
+            "B",
+            "A",
+            "C",
+            "E",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 0.3136715888977051
+    },
+    {
+        "mutation_func": "scramble_mutation",
+        "crossover_func": "partially_mapped_crossover",
+        "population_size": 100,
+        "num_generations": 200,
+        "tournament_size": 5,
+        "elitism_size": 10,
+        "mutation_prob": 0.2,
+        "solution": [
+            "B",
+            "A",
+            "C",
+            "E",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 1.8550431728363037
+    },
+    {
+        "mutation_func": "scramble_mutation",
+        "crossover_func": "cycle_crossover",
+        "population_size": 50,
+        "num_generations": 100,
+        "tournament_size": 3,
+        "elitism_size": 5,
+        "mutation_prob": 0.1,
+        "solution": [
+            "B",
+            "A",
+            "C",
+            "E",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 0.2099761962890625
+    },
+    {
+        "mutation_func": "scramble_mutation",
+        "crossover_func": "cycle_crossover",
+        "population_size": 100,
+        "num_generations": 200,
+        "tournament_size": 5,
+        "elitism_size": 10,
+        "mutation_prob": 0.2,
+        "solution": [
+            "B",
+            "A",
+            "E",
+            "C",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 1.5424787998199463
+    },
+    {
+        "mutation_func": "mutate_number_of_times",
+        "crossover_func": "crossover",
+        "population_size": 50,
+        "num_generations": 100,
+        "tournament_size": 3,
+        "elitism_size": 5,
+        "mutation_prob": 0.1,
+        "solution": [
+            "B",
+            "A",
+            "E",
+            "C",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 0.195570707321167
+    },
+    {
+        "mutation_func": "mutate_number_of_times",
+        "crossover_func": "crossover",
+        "population_size": 100,
+        "num_generations": 200,
+        "tournament_size": 5,
+        "elitism_size": 10,
+        "mutation_prob": 0.2,
+        "solution": [
+            "B",
+            "A",
+            "E",
+            "C",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 1.3746371269226074
+    },
+    {
+        "mutation_func": "mutate_number_of_times",
+        "crossover_func": "partially_mapped_crossover",
+        "population_size": 50,
+        "num_generations": 100,
+        "tournament_size": 3,
+        "elitism_size": 5,
+        "mutation_prob": 0.1,
+        "solution": [
+            "B",
+            "A",
+            "E",
+            "C",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 0.30907392501831055
+    },
+    {
+        "mutation_func": "mutate_number_of_times",
+        "crossover_func": "partially_mapped_crossover",
+        "population_size": 100,
+        "num_generations": 200,
+        "tournament_size": 5,
+        "elitism_size": 10,
+        "mutation_prob": 0.2,
+        "solution": [
+            "B",
+            "A",
+            "E",
+            "C",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 1.7802352905273438
+    },
+    {
+        "mutation_func": "mutate_number_of_times",
+        "crossover_func": "cycle_crossover",
+        "population_size": 50,
+        "num_generations": 100,
+        "tournament_size": 3,
+        "elitism_size": 5,
+        "mutation_prob": 0.1,
+        "solution": [
+            "B",
+            "A",
+            "E",
+            "C",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 0.18427324295043945
+    },
+    {
+        "mutation_func": "mutate_number_of_times",
+        "crossover_func": "cycle_crossover",
+        "population_size": 100,
+        "num_generations": 200,
+        "tournament_size": 5,
+        "elitism_size": 10,
+        "mutation_prob": 0.2,
+        "solution": [
+            "B",
+            "A",
+            "E",
+            "C",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 1.3478612899780273
+    },
+    {
+        "mutation_func": "swap_and_invert_mutation",
+        "crossover_func": "crossover",
+        "population_size": 50,
+        "num_generations": 100,
+        "tournament_size": 3,
+        "elitism_size": 5,
+        "mutation_prob": 0.1,
+        "solution": [
+            "B",
+            "A",
+            "C",
+            "E",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 0.23378610610961914
+    },
+    {
+        "mutation_func": "swap_and_invert_mutation",
+        "crossover_func": "crossover",
+        "population_size": 100,
+        "num_generations": 200,
+        "tournament_size": 5,
+        "elitism_size": 10,
+        "mutation_prob": 0.2,
+        "solution": [
+            "B",
+            "A",
+            "C",
+            "E",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 1.5753462314605713
+    },
+    {
+        "mutation_func": "swap_and_invert_mutation",
+        "crossover_func": "partially_mapped_crossover",
+        "population_size": 50,
+        "num_generations": 100,
+        "tournament_size": 3,
+        "elitism_size": 5,
+        "mutation_prob": 0.1,
+        "solution": [
+            "B",
+            "A",
+            "C",
+            "E",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 0.3246798515319824
+    },
+    {
+        "mutation_func": "swap_and_invert_mutation",
+        "crossover_func": "partially_mapped_crossover",
+        "population_size": 100,
+        "num_generations": 200,
+        "tournament_size": 5,
+        "elitism_size": 10,
+        "mutation_prob": 0.2,
+        "solution": [
+            "B",
+            "A",
+            "E",
+            "C",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 1.9050776958465576
+    },
+    {
+        "mutation_func": "swap_and_invert_mutation",
+        "crossover_func": "cycle_crossover",
+        "population_size": 50,
+        "num_generations": 100,
+        "tournament_size": 3,
+        "elitism_size": 5,
+        "mutation_prob": 0.1,
+        "solution": [
+            "B",
+            "A",
+            "E",
+            "C",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 0.2230243682861328
+    },
+    {
+        "mutation_func": "swap_and_invert_mutation",
+        "crossover_func": "cycle_crossover",
+        "population_size": 100,
+        "num_generations": 200,
+        "tournament_size": 5,
+        "elitism_size": 10,
+        "mutation_prob": 0.2,
+        "solution": [
+            "B",
+            "A",
+            "C",
+            "E",
+            "D"
+        ],
+        "cost": 10,
+        "time_taken": 1.5524837970733643
+    }
+]
