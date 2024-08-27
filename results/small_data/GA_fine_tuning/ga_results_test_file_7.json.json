@@ -1,0 +1,227 @@
+[
+    {
+        "mutation_func": "mutate",
+        "crossover_func": "cycle_crossover",
+        "solution": [
+            "B",
+            "E",
+            "A",
+            "D",
+            "F",
+            "C",
+            "G"
+        ],
+        "cost": 16,
+        "time_taken": 0.2569899559020996
+    },
+    {
+        "mutation_func": "inversion_mutation",
+        "crossover_func": "cycle_crossover",
+        "solution": [
+            "B",
+            "E",
+            "A",
+            "D",
+            "F",
+            "C",
+            "G"
+        ],
+        "cost": 16,
+        "time_taken": 0.2680072784423828
+    },
+    {
+        "mutation_func": "scramble_mutation",
+        "crossover_func": "cycle_crossover",
+        "solution": [
+            "B",
+            "E",
+            "A",
+            "D",
+            "F",
+            "C",
+            "G"
+        ],
+        "cost": 16,
+        "time_taken": 0.2724435329437256
+    },
+    {
+        "mutation_func": "mutate",
+        "crossover_func": "crossover",
+        "solution": [
+            "B",
+            "E",
+            "A",
+            "D",
+            "F",
+            "C",
+            "G"
+        ],
+        "cost": 16,
+        "time_taken": 0.29015302658081055
+    },
+    {
+        "mutation_func": "swap_and_invert_mutation",
+        "crossover_func": "crossover",
+        "solution": [
+            "B",
+            "E",
+            "A",
+            "D",
+            "F",
+            "C",
+            "G"
+        ],
+        "cost": 16,
+        "time_taken": 0.29413723945617676
+    },
+    {
+        "mutation_func": "scramble_mutation",
+        "crossover_func": "crossover",
+        "solution": [
+            "B",
+            "E",
+            "A",
+            "D",
+            "F",
+            "C",
+            "G"
+        ],
+        "cost": 16,
+        "time_taken": 0.29535770416259766
+    },
+    {
+        "mutation_func": "inversion_mutation",
+        "crossover_func": "crossover",
+        "solution": [
+            "B",
+            "E",
+            "A",
+            "D",
+            "F",
+            "C",
+            "G"
+        ],
+        "cost": 16,
+        "time_taken": 0.31195878982543945
+    },
+    {
+        "mutation_func": "mutate_number_of_times",
+        "crossover_func": "crossover",
+        "solution": [
+            "B",
+            "E",
+            "A",
+            "D",
+            "F",
+            "C",
+            "G"
+        ],
+        "cost": 16,
+        "time_taken": 0.3402588367462158
+    },
+    {
+        "mutation_func": "mutate_number_of_times",
+        "crossover_func": "partially_mapped_crossover",
+        "solution": [
+            "B",
+            "E",
+            "A",
+            "D",
+            "F",
+            "C",
+            "G"
+        ],
+        "cost": 16,
+        "time_taken": 0.34945225715637207
+    },
+    {
+        "mutation_func": "swap_and_invert_mutation",
+        "crossover_func": "partially_mapped_crossover",
+        "solution": [
+            "B",
+            "E",
+            "A",
+            "D",
+            "F",
+            "C",
+            "G"
+        ],
+        "cost": 16,
+        "time_taken": 0.35773730278015137
+    },
+    {
+        "mutation_func": "mutate",
+        "crossover_func": "partially_mapped_crossover",
+        "solution": [
+            "B",
+            "E",
+            "A",
+            "D",
+            "F",
+            "C",
+            "G"
+        ],
+        "cost": 16,
+        "time_taken": 0.38262200355529785
+    },
+    {
+        "mutation_func": "scramble_mutation",
+        "crossover_func": "partially_mapped_crossover",
+        "solution": [
+            "B",
+            "E",
+            "A",
+            "D",
+            "F",
+            "C",
+            "G"
+        ],
+        "cost": 16,
+        "time_taken": 0.4047234058380127
+    },
+    {
+        "mutation_func": "inversion_mutation",
+        "crossover_func": "partially_mapped_crossover",
+        "solution": [
+            "B",
+            "E",
+            "A",
+            "D",
+            "F",
+            "C",
+            "G"
+        ],
+        "cost": 16,
+        "time_taken": 0.4812288284301758
+    },
+    {
+        "mutation_func": "mutate_number_of_times",
+        "crossover_func": "cycle_crossover",
+        "solution": [
+            "E",
+            "B",
+            "A",
+            "D",
+            "F",
+            "C",
+            "G"
+        ],
+        "cost": 17,
+        "time_taken": 0.2478044033050537
+    },
+    {
+        "mutation_func": "swap_and_invert_mutation",
+        "crossover_func": "cycle_crossover",
+        "solution": [
+            "E",
+            "B",
+            "A",
+            "D",
+            "F",
+            "C",
+            "G"
+        ],
+        "cost": 17,
+        "time_taken": 0.3555316925048828
+    }
+]
