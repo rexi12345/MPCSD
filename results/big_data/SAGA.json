@@ -3,38 +3,38 @@
         "test_name": "test_file_22.json",
         "order_of_tasks": [
             "J",
-            "H",
-            "A",
             "I",
             "Q",
+            "N",
+            "H",
             "K",
+            "A",
             "C",
             "U",
-            "N",
             "S",
             "E",
-            "V",
             "P",
             "L",
-            "F",
-            "G",
             "M",
             "D",
+            "F",
+            "V",
             "B",
             "R",
+            "G",
             "O",
             "T"
         ],
-        "finish_time": 44,
-        "time_taken": 0.1499619483947754
+        "finish_time": 39,
+        "time_taken": 0.182816743850708
     },
     {
         "test_name": "test_file_24.json",
         "order_of_tasks": [
             "H",
             "I",
-            "W",
             "F",
+            "W",
             "R",
             "D",
             "Q",
@@ -43,9 +43,9 @@
             "O",
             "C",
             "P",
-            "E",
             "V",
             "X",
+            "E",
             "B",
             "K",
             "T",
@@ -57,7 +57,7 @@
             "L"
         ],
         "finish_time": 57,
-        "time_taken": 0.15583086013793945
+        "time_taken": 0.1961345672607422
     },
     {
         "test_name": "test_file_20.json",
@@ -68,30 +68,30 @@
             "N",
             "F",
             "M",
-            "K",
             "I",
-            "H",
-            "L",
-            "S",
+            "K",
             "O",
+            "L",
+            "H",
             "B",
             "C",
-            "P",
             "D",
+            "S",
             "J",
             "R",
+            "P",
             "A",
             "T"
         ],
-        "finish_time": 50,
-        "time_taken": 0.12789011001586914
+        "finish_time": 49,
+        "time_taken": 0.1719202995300293
     },
     {
         "test_name": "test_file_21.json",
         "order_of_tasks": [
             "B",
-            "G",
             "P",
+            "G",
             "K",
             "T",
             "Q",
@@ -112,36 +112,36 @@
             "E"
         ],
         "finish_time": 41,
-        "time_taken": 0.130324125289917
+        "time_taken": 0.1848313808441162
     },
     {
         "test_name": "test_file_23.json",
         "order_of_tasks": [
             "N",
-            "W",
             "J",
             "S",
-            "K",
-            "B",
             "C",
+            "W",
+            "K",
             "H",
+            "B",
             "A",
             "G",
             "L",
             "D",
             "Q",
             "V",
-            "P",
             "I",
+            "P",
             "O",
-            "E",
             "U",
+            "E",
             "T",
             "M",
             "F",
             "R"
         ],
-        "finish_time": 45,
-        "time_taken": 0.1347188949584961
+        "finish_time": 44,
+        "time_taken": 0.20241427421569824
     }
 ]
