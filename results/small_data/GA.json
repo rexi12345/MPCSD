@@ -4,27 +4,25 @@
         "order_of_tasks": [
             "B",
             "A",
-            "E",
             "C",
+            "E",
             "D"
         ],
         "finish_time": 10,
-        "time_taken": 0.08169221878051758
+        "time_taken": 0.06872725486755371
     },
     {
-        "test_name": "test_file_8.json",
+        "test_name": "test_file_6.json",
         "order_of_tasks": [
-            "D",
-            "G",
             "B",
+            "F",
+            "E",
             "A",
             "C",
-            "H",
-            "E",
-            "F"
+            "D"
         ],
-        "finish_time": 14,
-        "time_taken": 0.07253789901733398
+        "finish_time": 13,
+        "time_taken": 0.05195188522338867
     },
     {
         "test_name": "test_file_7.json",
@@ -38,20 +36,22 @@
             "G"
         ],
         "finish_time": 16,
-        "time_taken": 0.18314146995544434
+        "time_taken": 0.09361910820007324
     },
     {
-        "test_name": "test_file_6.json",
+        "test_name": "test_file_8.json",
         "order_of_tasks": [
+            "D",
+            "G",
             "B",
-            "F",
-            "E",
             "A",
             "C",
-            "D"
+            "E",
+            "H",
+            "F"
         ],
-        "finish_time": 13,
-        "time_taken": 0.05194735527038574
+        "finish_time": 14,
+        "time_taken": 0.058699846267700195
     },
     {
         "test_name": "test_file_9.json",
@@ -60,13 +60,13 @@
             "H",
             "A",
             "E",
-            "G",
             "B",
+            "G",
             "D",
             "I",
             "F"
         ],
         "finish_time": 11,
-        "time_taken": 0.06114506721496582
+        "time_taken": 0.06141471862792969
     }
 ]
