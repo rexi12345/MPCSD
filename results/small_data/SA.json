@@ -1,0 +1,67 @@
+[
+    {
+        "test_name": "test_file_5.json",
+        "order_of_tasks": [
+            "B",
+            "A",
+            "E",
+            "C",
+            "D"
+        ],
+        "finish_time": 10
+    },
+    {
+        "test_name": "test_file_6.json",
+        "order_of_tasks": [
+            "B",
+            "F",
+            "E",
+            "A",
+            "C",
+            "D"
+        ],
+        "finish_time": 13
+    },
+    {
+        "test_name": "test_file_7.json",
+        "order_of_tasks": [
+            "B",
+            "E",
+            "A",
+            "D",
+            "F",
+            "C",
+            "G"
+        ],
+        "finish_time": 16
+    },
+    {
+        "test_name": "test_file_8.json",
+        "order_of_tasks": [
+            "D",
+            "B",
+            "G",
+            "H",
+            "A",
+            "C",
+            "E",
+            "F"
+        ],
+        "finish_time": 14
+    },
+    {
+        "test_name": "test_file_9.json",
+        "order_of_tasks": [
+            "A",
+            "C",
+            "H",
+            "E",
+            "G",
+            "D",
+            "B",
+            "I",
+            "F"
+        ],
+        "finish_time": 11
+    }
+]
